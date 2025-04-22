@@ -1,6 +1,9 @@
-# ets3
+# Story Writer Application
 
-A new Flutter project.
+Fellyla Fiorenza Wilianto 
+5025221110
+
+For the ETS Mobile Programming course, I created a simple application called "Story Writer". Inspired by an application that I often use, this application has the benefit of being a container for ideas or a story writer whose results will be stored in a database. For the database itself, in this project I use the sqflite database.
 
 ## Getting Started
 
